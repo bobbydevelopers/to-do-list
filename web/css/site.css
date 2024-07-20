@@ -1,0 +1,63 @@
+main > .container {
+    padding: 70px 15px 20px;
+}
+
+
+form#to-do-form {
+    display: flex;
+    
+    /* align-items: baseline; */
+}
+select#todo-category_id {
+    width: 125px;
+    text-align: center;
+    border: 1px solid;
+}
+input#todo-name {
+    width: 350px;
+    border: 1px solid;
+}
+
+
+.showtable
+{
+    margin : 120px 10px;
+}
+
+
+.summary {
+    display: none;
+}
+
+label.control-label {
+    display: none;
+}
+
+
+.input
+{
+    margin: 0px 80px;
+}
+
+.content
+{
+    border: 1px solid;
+    padding: 20px 0px;
+}
+
+#heading
+{
+    font-size: 35px;
+    padding: 0px 95px;
+}
+
+#sub-heading
+{
+    font-size: 20px;
+}
+
+.site-header {
+    padding: 0px 7px;
+    width: 600px;
+    margin: 0px 300px;
+}
